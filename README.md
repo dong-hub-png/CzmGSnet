@@ -20,7 +20,7 @@ Hyper paramters for training to update in configuration file: /configs/sector_co
     python test_sector.py
 
 ## Results
-
+test
 
 ## TODO
 
